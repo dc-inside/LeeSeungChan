@@ -11,6 +11,6 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Project 1: Predict** | `1.predict` | 영양소 섭취 기반 고콜레스테롤혈증 위험도 예측 및 자가 진단 서비스 | `완료` | [바로가기](./project/1.predict/README.md) |
 | **Project 2: Vision** | `2.vision` | 이미지 기반 객체 탐지 API | `완료` | [바로가기](./project/2.vision/README.md) |
-| **Project 3: LLM** | `3.LLM` | 법률 AI 챗봇 | `진행중` | [바로가기](./project/3.LLM/README.md) |
+| **Project 3: LLM** | `3.LLM` | python 디버깅 AI 챗봇 | `진행중` | [바로가기](./project/3.LLM/README.md) |
 
 ---
